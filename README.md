@@ -54,3 +54,58 @@
 ## 📝 版权信息
 
 本软件遵循MIT开源协议。欢迎使用和传播，保留作者署名权。 
+
+
+# Simple and Easy Image Resolution Converter Tool
+
+## ✨ Features
+
+- 🖼️ Support batch image selection and processing
+- 👀 Real-time preview feature to view original images
+- 📐 Support for multiple common resolutions and custom resolutions
+- 🌏 Switch between Chinese and English interfaces
+- 📁 Supported image formats: JPG, JPEG, PNG, BMP, GIF
+- 🎨 Simple and beautiful user interface
+
+## 📖 Instructions
+
+1. **📥 Select Images**
+   - Click the "Select Images" button to choose one or more images.
+   - Drag and drop multiple files to select them.
+   - Preview selected images to check their original dimensions.
+
+2. **⚙️ Set Target Resolution**
+   - Choose from predefined resolutions (e.g., 1920x1080, etc.)
+   - Or select "Custom" to input your desired resolution.
+
+3. **📂 Choose Save Location**
+   - Click the "Select Save Directory" button to set the output folder.
+   - Converted images will be saved in the selected directory.
+   - Filename format: Original filename_resized_widthxheight.extension
+
+4. **🚀 Start Conversion**
+   - Click the "Start Conversion" button to begin batch processing.
+   - During the conversion process, you can see progress updates.
+   - After completion, a success message will be shown.
+
+## 💻 System Requirements
+
+- Windows 7/8/10/11
+- No Python environment installation required, just run the exe file.
+
+## ⚠️ Notes
+
+1. ⏳ Converting a large number of images may take some time.
+2. 💾 It is recommended to regularly back up important images.
+3. ✅ Original images will not be modified; the program will generate new image files.
+
+## 📮 Feedback
+
+If you encounter any issues or have suggestions during use, please feel free to submit an issue on GitHub or contact the developer.
+
+🔗 GitHub: [Travisma2233](https://github.com/Travisma2233)
+
+## 📝 License Information
+
+This software follows the MIT Open Source License. Feel free to use and distribute it, with credit to the author.
+
