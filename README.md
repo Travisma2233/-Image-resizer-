@@ -1,4 +1,6 @@
 # 📷 图片分辨率转换器 (Image Resolution Converter)
+![image](https://github.com/user-attachments/assets/0b0f2342-53ac-42ff-9da0-5f67beba05c2)
+![image](https://github.com/user-attachments/assets/6d44dd44-8737-42c7-9557-ad8b4848ad3a)
 
 一个简单易用的图片分辨率转换工具，支持批量处理图片并提供实时预览功能。
 
